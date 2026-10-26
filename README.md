@@ -1,4 +1,8 @@
-# Linux Device Manager
+<p align="center">
+  <img src="gui-gtk/src/main/resources/icons/hicolor/256x256/apps/linux-device-manager.png" width="128" height="128" alt="Linux Device Manager icon: a blue microchip with circuit traces">
+</p>
+
+<h1 align="center">Linux Device Manager</h1>
 
 [![Test CI](https://github.com/getldm/linux-device-manager/actions/workflows/test-ci.yml/badge.svg)](https://github.com/getldm/linux-device-manager/actions/workflows/test-ci.yml)
 [![Release CI](https://github.com/getldm/linux-device-manager/actions/workflows/release-ci.yml/badge.svg)](https://github.com/getldm/linux-device-manager/actions/workflows/release-ci.yml)
